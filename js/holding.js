@@ -16,7 +16,7 @@
 
     var COUNT = 40;
     var RADIUS = 46;   /* per cent of the ring box */
-    var SPAN = 2600;   /* the last dot starts here, so it finishes near 3s */
+    var SPAN = 1600;   /* the last dot starts here, so it finishes near 2s */
 
     /* A fixed seed keeps the arrival order varied but the same every visit. */
     function shuffledOrder(n) {
